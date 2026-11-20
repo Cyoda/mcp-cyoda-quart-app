@@ -120,7 +120,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines.
 
 1. **Cyoda Platform**: [https://ai.cyoda.net](https://ai.cyoda.net)
 2. **Documentation**: [https://docs.cyoda.net](https://docs.cyoda.net)
-3. **Issues**: [GitHub Issues](https://github.com/Cyoda-platform/quart-client-template/issues)
+3. **Issues**: [GitHub Issues](https://github.com/Cyoda/mcp-cyoda-quart-app/issues)
 
 ## License
 
