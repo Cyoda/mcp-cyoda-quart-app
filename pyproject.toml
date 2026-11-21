@@ -63,8 +63,8 @@ mcp-cyoda = "cyoda_mcp.__main__:main"
 [project.urls]
 Homepage = "https://ai.cyoda.net"
 Documentation = "https://docs.cyoda.net"
-Repository = "https://github.com/Cyoda-platform/quart-client-template"
-Issues = "https://github.com/Cyoda-platform/quart-client-template/issues"
+Repository = "https://github.com/Cyoda/mcp-cyoda-quart-app"
+Issues = "https://github.com/Cyoda/mcp-cyoda-quart-app/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
